@@ -1,5 +1,5 @@
 {
-    "name": "AutoApproverBot",
+    "name": "MovieZ Knight AutoApproverBot",
     "description": "A bot which will auto approves upcoming channel join request!",
     "logo": "https://te.legra.ph/file/77afcc95fbc67c688451c.jpg",
     "keywords": [
@@ -9,9 +9,9 @@
         "golang bot",
         "golang telegram"
     ],
-    "repository": "https://github.com/Reeshuxd/AutoApproverBot",
-    "success_url": "https://t.me/Userchatroom",
-    "website": "https://t.me/Userchatroom",
+    "repository": "https://github.com",
+    "success_url": "https://t.me/",
+    "website": "https://t.me/",
     "env": {
         "TOKEN": {
             "description": "Your telegram bot token (@BotFather)",
